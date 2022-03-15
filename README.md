@@ -3,7 +3,7 @@
 :office: Blumenau - Santa Catarina <br>
 :umbrella: Analista B.I <br>
 :computer: Desenvolvedor Back-End <br>
-:rocket: Trabalhando como Analista de Dados em :heart: HBSIS | Ambev :heart:
+:rocket: Trabalhando como Analista de Dados em :heart: Ambevtech :heart:
 
 <hr>
 
