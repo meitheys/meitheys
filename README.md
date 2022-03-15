@@ -11,7 +11,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meitheys&show_icons=true&theme=tokyonight)](https://github.com/meitheys/github-readme-stats)
 
-<hr>
+<!--<hr>
 
 ### :space_invader: Atualmente utilizo
 
@@ -36,7 +36,7 @@
     <td width="170px" height="60px" align="center"><img src="https://github.com/meitheys/imgs/blob/master/powerbi.png?raw=true" width="30px" height="30px"></td>
     <td width="170px" height="60px" align="center"><img src="https://github.com/meitheys/imgs/blob/master/null.png?raw=true" width="30px" height="30px"></td>
   </tr>
-<table>
+<table>*/-->
 
 <hr>
 
